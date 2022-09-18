@@ -1,0 +1,24 @@
+.page-header {
+    padding-top: 24px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid #ECECEC;
+
+    background-color: var(--main-white);
+}
+
+.page-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.page-navigation {
+    display: flex;
+    align-items: center;
+}
+
+.page-navigation__menu {
+    margin-left: 93px;
+}
+
