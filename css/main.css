@@ -523,7 +523,7 @@ body {
   cursor: pointer;
   margin-left: 12px;
   margin-right: 8px;
-  transform: translate(auto);
+  transform: translateX(0px);
 }
 .form-check:checked + .form-check__icon {
   background-color: var(--accent-blue-color);
